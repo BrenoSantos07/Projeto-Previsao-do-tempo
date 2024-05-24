@@ -1,4 +1,5 @@
-# Projeto Previsão do Termpo
+# Projeto Previsão do Tempo
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/BrenoSantos07/Projeto-Previsao-do-tempo/blob/main/LICENSE)
 
 # Sobre o Projeto
 
